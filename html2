@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<!-- saved from url=(0064)file:///E:/ReDi%20School/IntroductionToComputerScience/html.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Page Title</title>
+</head>
+<body>
+  
+  <h1 style="font-size:25px; color:blue; margin-top: 10px; margin-bottom: 10px;">Anna</h1>
+
+<img src="./Page Title_Lesson17_Intro to HTML CSS_files/AZelenska_Foto für ReDi 1.jpg" alt="myImage" width="150" height="200">
+
+<h2 style="font-size:20px; color:black; width:200px; text-align: center;">A list of my favourite cities</h2>
+
+<ul>
+<ul style="background-color:lightblue; font-size: 15px; font-weight: bold; line-height: 10px;">
+  <li>Kyiv</li>
+  <li>Chernigiv</li>
+  <li>Berlin</li>
+  <li>Vienna</li>
+  <li>Munich</li>
+  <li>Luzern</li>
+  <li>Barcelona</li>
+</ul>
+
+
+
+</ul></body></html>
